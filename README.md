@@ -1,14 +1,19 @@
-# Hi there, I'm BRUCE BOGE! 👋
+<h1 align="stsrt">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2300&pause=900&color=FF6F3C&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Bruce!" alt="Typing SVG" />
+</h1>
 <p align="center">
-  <img src="[YOUR-BANNER-IMAGE-URL-HERE (Optional)]" alt="Banner" width="800"/>
+  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Animated developer workspace banner with pixel art desk computer and game collectibles" />
 </p>
 
-I'm a AI & Automation Engineer / Vibe Developer passionate about building systems that are efficient, intelligent, and solve real-world problems.
+<p align="center">
+  <img src="https://" alt="Banner" width="800"/>
+</p>
 
-* 🔭 I’m currently building **AI-powered bot for LinkedIn**.
+I'm an Aspiring Engineer passionate about building systems that are efficient, intelligent, and solve real-world problems.
+
+* 🔭 I’m currently building **Nano satelite Module**.
 * 🌱 I’m currently learning **AUtomation Technology advanced n8n workflows. serverless computing**.
-* 💬 Ask me about **AI agents, IoT,cloud automation**.
-* 📫 How to reach me: **trionmulti@gmail.com**
+* 💬 Ask me about **Embedded Systems, IoT, cloud automation**.
 * ⚡ Fun fact: **Everything that was to happen will eventually happen**
 
 ---
@@ -37,23 +42,12 @@ I'm a AI & Automation Engineer / Vibe Developer passionate about building system
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/brucb/" target="_blank">
+  <a href="https://www.linkedin.com/in/bruceboge/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[Your Personal Site/Blog URL]" target="_blank">
-    <img src="https://img.shields.io/badge/Website-YOUR_HEX_COLOR?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-  </a>
-  <a href="[Twitter/X ]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://bruceboge.me]" target="_blank">
+    <img src="https://img.shields.io/badge/Website-gold?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
 </p>
 
 ---
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trionmulti&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trionmulti&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
