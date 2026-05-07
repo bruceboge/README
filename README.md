@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://" alt="Banner" width="800"/>
+  <img src="https://"  width="800"/>
 </p>
 
 I'm an Aspiring Engineer passionate about building systems that are efficient, intelligent, and solve real-world problems.
