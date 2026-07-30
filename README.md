@@ -8,12 +8,12 @@
   <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Animated developer workspace banner with pixel art desk computer and game collectibles" />
 </p>
 
-I'm an Aspiring Engineer passionate about building systems that are efficient, intelligent, and solve real-world problems.
+I'm Telecommunications Engineer passionate about building systems that are efficient, intelligent, and solve real-world problems.
 
-* 🔭 I’m currently building a **Nano-satellite Module**.
-* 🌱 I’m currently learning **Automation Technology, advanced n8n workflows, and serverless computing**.
-* 💬 Ask me about **Embedded Systems and IoT**.
-* ⚡ Fun fact: **Everything that was to happen will eventually happen**
+* 🔭 I’m currently building a **Nano Satellite Module**.
+* 🌱 I’m currently learning **Serverless computing**.
+* 💬 Ask me about **Anything**.
+* ⚡ Fun fact: **Love will never die**
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/realsanct) 
